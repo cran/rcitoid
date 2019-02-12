@@ -1,0 +1,14 @@
+b6542527115d412e50bba825ca9779ce *DESCRIPTION
+de9532c5aeb8082a5fc9cbee02186d6f *LICENSE
+7eb0f65e376fb252dc8f4b0fb8d21b36 *NAMESPACE
+efefef9fdbcd721b6aeba9faf2c661a3 *NEWS.md
+e873c1e3f7bce61fead49214f8d7d44a *R/cit_oid.R
+cdd7fa5e730d2d15e5fa8cbce7ae6dc1 *R/http.R
+74d6faf06b4571f1c7ce96a534b82884 *R/rcitoid-package.R
+b437114a8cf40c3c32d9fe50a324e053 *R/zzz.R
+7015fada71d489ff54a0522afebc354e *README.md
+351ffa571474218bfea9cd4c2a0f5f37 *man/cit_oid.Rd
+72148ac56c9b596ee7af3261e71a53d1 *man/rcitoid-package.Rd
+ed2552dfa3085d9af85c6ca02c80590a *tests/test-all.R
+1118a7b7f3db7d01fc37d829a178d11e *tests/testthat/test-cit__oid.R
+2ccd277c6455af3eb76c0818c527b7c3 *tests/testthat/test-cit_oid.R
